@@ -1,0 +1,5 @@
+{
+  "name": "Editor do tuCa",
+  "description": "Um editor de imagens com inteligência artificial que torna a edição profissional acessível a todos. Utilize a IA para remover objetos, alterar fundos, modificar expressões faciais, aumentar a resolução de imagens e aplicar filtros inteligentes com simples comandos de texto.",
+  "requestFramePermissions": []
+}
